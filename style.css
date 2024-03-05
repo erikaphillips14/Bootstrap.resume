@@ -1,0 +1,33 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+body {
+	background-color:#fff;
+}
+
+#contact{
+	color:#fff;
+}
+.container{
+	border: 10px solid #800000;
+}
+.col-10{
+	background-color: #800000;
+}
+.col-2{
+	background-color: #800000;
+}
+
+.leftcol {
+background-color:#fff;
+}
+.leftcol h2{
+	color:#800000;
+}
+
+.rightcol{background-color:#fff;}
+.rightcol h2{
+	color:#800000;
+}
+img{width:200px;
+	height:200px;
+}
